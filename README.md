@@ -1,1 +1,2 @@
 # Fake-News-Detection
+A news dataset is analyzed using various algorithms, including Gradient Boosting Classifier, Decision Tree, and Logistic Regression, to assess the authenticity of news articles. These algorithms process the data to detect patterns and features associated with fake news, forming a robust classification system. The objective is to enhance the accuracy of distinguishing between real and fake news by leveraging the strengths of each algorithm in handling different dataset aspects, ultimately improving the reliability of classification results.
